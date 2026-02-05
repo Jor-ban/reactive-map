@@ -1,6 +1,6 @@
 {
   "name": "@reactive-cache/map",
-  "version": "1.6.0",
+  "version": "1.8.0",
   "type": "module",
   "scripts": {
     "test": "npx tsc && tsx watch src/test.ts && echo 'all tests are complete!'",
@@ -20,7 +20,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jor-ban/reactive-cache.git"
+    "url": "git+https://github.com/Jor-ban/reactive-map.git"
   },
   "keywords": [
     "angular",
@@ -33,7 +33,7 @@
   "author": "https://github.com/Jor-ban",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jor-ban/reactive-cache/issues"
+    "url": "https://github.com/Jor-ban/reactive-map/issues"
   },
-  "homepage": "https://github.com/Jor-ban/reactive-cache#readme"
+  "homepage": "https://github.com/Jor-ban/reactive-map#readme"
 }
