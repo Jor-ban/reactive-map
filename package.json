@@ -1,6 +1,6 @@
 {
   "name": "@reactive-cache/map",
-  "version": "0.2.1",
+  "version": "1.6.0",
   "type": "module",
   "scripts": {
     "test": "npx tsc && tsx watch src/test.ts && echo 'all tests are complete!'",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "rxjs": "^7.8.1",
-    "@reactive-cache/core": "^2.6.0"
+    "@reactive-cache/core": "^3.2.0"
   },
   "description": "reactive map for angular and rxjs projects",
   "main": "dist/index.js",
